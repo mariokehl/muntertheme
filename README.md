@@ -10,10 +10,9 @@ Installation
 *This theme requires __TYPO3 CMS 6.2__ in order to work!*
 
 1. Clone repository into your local `typo3conf/ext` folder
- 
 2. Enable `muntertheme` in Extension Manager
-
-3. Import file `data.t3d` out of extension folder `Initialisation` to get a first look
+3. Go over and install [muntertheme_contentelements](https://github.com/perltwiesekt/muntertheme_contentelements)
+4. Import file `data.t3d` out of extension folder `Initialisation` to get a first look
 
 Credits
 --------------
