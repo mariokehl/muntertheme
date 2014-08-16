@@ -1,0 +1,30 @@
+# Include constants from other extensions
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:css_styled_content/static/constants.txt">
+
+# Settings
+plugin.tx_muntertheme {
+	# customsubcategory=onepage=LLL:EXT:muntertheme/Resources/Private/Language/locallang.xlf:onepage
+	# cat=plugin.muntertheme/onepage/10; type=string; label= muntertheme BaseURL
+	url = http://dev.typo3.local/
+	absRefPrefix = /
+
+	general {
+		adminPanel = 0
+	}
+
+	assets {
+		# cat=plugin.muntertheme/onepage/20; type=boolean; label= Compress JS & CSS
+		compress = 1
+		# cat=plugin.muntertheme/onepage/30; type=boolean; label= Merge JS & CSS
+		merge = 1
+	}
+
+	extensions {
+		realurl = 1
+		sourceopt = 0
+	}
+
+}
+
+# Include Filepaths
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:muntertheme/Configuration/TypoScript/Constants/Filepaths.ts">

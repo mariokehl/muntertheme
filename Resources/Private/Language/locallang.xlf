@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-08-09T15:11:02Z" product-name="muntertheme">
+		<header/>
+		<body>
+			<trans-unit id="next_section" xml:space="preserve">
+        		<source>Next Section</source>
+        	</trans-unit>
+		</body>
+	</file>
+</xliff>

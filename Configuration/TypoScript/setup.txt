@@ -1,0 +1,8 @@
+# Include setup from other extensions
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:css_styled_content/static/setup.txt">
+
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:muntertheme/Configuration/TypoScript/Setup/Config.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:muntertheme/Configuration/TypoScript/Setup/Page.ts">
+
+# Include libraries
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:muntertheme/Configuration/TypoScript/Library" extensions="ts">

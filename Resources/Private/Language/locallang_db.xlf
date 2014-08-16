@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-08-09T15:11:02Z" product-name="muntertheme">
+		<header/>
+		<body>
+			<trans-unit id="pages.palettes.muntertheme">
+				<source>Munter theme settings</source>
+			</trans-unit>
+		    <trans-unit id="pages.css_id">
+        		<source>CSS Id</source>
+        	</trans-unit>
+			<trans-unit id="pages.menu_icon">
+				<source>Font Awesome Menu Icon</source>
+			</trans-unit>
+			<trans-unit id="pages.menu_icon.none">
+				<source>Beer (Default)</source>
+			</trans-unit>
+			<trans-unit id="pages.menu_icon.home">
+				<source>Home</source>
+			</trans-unit>
+			<trans-unit id="pages.menu_icon.user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="pages.menu_icon.briefcase">
+				<source>Briefcase</source>
+			</trans-unit>
+			<trans-unit id="pages.menu_icon.gears">
+				<source>Gears</source>
+			</trans-unit>
+			<trans-unit id="pages.menu_icon.heart">
+				<source>Heart</source>
+			</trans-unit>
+			<trans-unit id="pages.menu_icon.envelope">
+				<source>Envelope</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
