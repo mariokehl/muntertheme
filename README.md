@@ -1,9 +1,14 @@
 Munter Theme for TYPO3 CMS
 ===========
-
 This is BlackTie's Munter One Page Theme modified for TYPO3 CMS. This theme uses Bootstrap 3.0
 and is fully responsive, too.
 You can download it for free and check out a live demo [here](http://www.blacktie.co/2013/10/munter-one-page-theme/).
+
+Framework Versions
+--------------
+* __Bootstrap__: 3.0.0
+* __jQuery__: 1.11.1
+* __Font Awesome__: 4.1.0
 
 Installation
 --------------
@@ -13,6 +18,10 @@ Installation
 2. Enable `muntertheme` in Extension Manager
 3. Go over and install [muntertheme_contentelements](https://github.com/perltwiesekt/muntertheme_contentelements)
 4. Import file `data.t3d` out of extension folder `Initialisation` to get a first look
+
+ToDos
+--------------
+* update Bootstrap to v3.2.0
 
 Credits
 --------------
