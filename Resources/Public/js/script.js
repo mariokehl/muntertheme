@@ -3,7 +3,7 @@ $(document).ready(function(e) {
 	$('.with-hover-text, .regular-link').click(function(e){
 		e.stopPropagation();
 	});
-	
+
 	/***************
 	* = Hover text *
 	* Hover text for the last slide

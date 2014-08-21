@@ -8,7 +8,7 @@ lib.nav {
 
             NO = 1
             NO {
-                wrapItemAndSub = <li data-slide="{field:nav_title}" class="col-12 col-sm-2">|</li>
+                wrapItemAndSub = <li data-slide="{field:nav_title}" class="col-xs-12 col-sm-2">|</li>
                 wrapItemAndSub.insertData = 1
 
                 doNotLinkIt = 1

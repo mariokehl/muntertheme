@@ -36,6 +36,11 @@ page {
         googleWebFont.external = 1
 	}
 
+    headerData.555 = TEXT
+    headerData.555.insertData = 1
+    headerData.555.data = PATH:EXT:muntertheme/Resources/Public/images/zoom.png
+    headerData.555.wrap = <link rel="prefetch" href="|">
+
 	includeJSFooter {
 		html5shiv = {$plugin.tx_muntertheme.filepaths.javascript}html5shiv.min.js
         jquery = {$plugin.tx_muntertheme.filepaths.javascript}jquery-1.11.1.min.js
