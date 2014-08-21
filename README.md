@@ -6,7 +6,7 @@ You can download it for free and check out a live demo [here](http://www.blackti
 
 Framework Versions
 --------------
-* __Bootstrap__: 3.0.0
+* __Bootstrap__: 3.2.0
 * __jQuery__: 1.11.1
 * __Font Awesome__: 4.1.0
 
