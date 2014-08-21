@@ -19,10 +19,6 @@ Installation
 3. Go over and install [muntertheme_contentelements](https://github.com/perltwiesekt/muntertheme_contentelements)
 4. Import file `data.t3d` out of extension folder `Initialisation` to get a first look
 
-ToDos
---------------
-* update Bootstrap to v3.2.0
-
 Credits
 --------------
 This is a learning project and was heavily inspired by
