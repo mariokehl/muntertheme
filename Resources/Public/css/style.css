@@ -572,7 +572,7 @@ i {
 #arrow-up {
     background-position: 30px 0;
     left: 25px;
-    top: 0;
+    top: -3px;
 }
 
 #arrow-up.disabled {
@@ -582,7 +582,7 @@ i {
 #arrow-down {
     background-position: 30px -30px;
     left: 25px;
-    bottom: 0;
+    bottom: -3px;
 }
 
 #arrow-down.disabled {
@@ -591,7 +591,7 @@ i {
 
 #arrow-left {
     background-position: 30px -60px;
-    left: 0;
+    left: -3px;
     top: 25px;
 }
 
@@ -601,7 +601,7 @@ i {
 
 #arrow-right {
     background-position: 30px -90px;
-    right: 0;
+    right: -3px;
     top: 25px;
 }
 
