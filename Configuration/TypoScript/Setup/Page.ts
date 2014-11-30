@@ -10,11 +10,11 @@ page {
 
             # Default template
 			default = TEXT
-			default.value = {$plugin.tx_muntertheme.filepaths.templates}main.html
+			default.value = {$plugin.tx_muntertheme.filepaths.templates}Main.html
 
             # Number equals the UID of the backend layout
 			1 = TEXT
-			1.value = {$plugin.tx_muntertheme.filepaths.templates}main.html
+			1.value = {$plugin.tx_muntertheme.filepaths.templates}Main.html
 		}
 		partialRootPath = {$plugin.tx_muntertheme.filepaths.templates}Partials/
 		layoutRootPath = {$plugin.tx_muntertheme.filepaths.templates}Layouts/
